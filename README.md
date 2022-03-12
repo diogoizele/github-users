@@ -27,7 +27,7 @@ During the development of the challenge, I tried to componentize the application
 
 It was very good to develop this project, because although simple, it explores several programming concepts, such as the atomization of creating more specific components for a certain function, creating small parts and joining them in the end to form the whole, requisition concepts at a api, which in our case was github and concepts of storing data in a context in React.
 
-## Check out the app: [Github Users]()
+## Check out the app: [Github Users](https://diogoizele.github.io/github-users/)
 
 # Digital Innovation One - Desafio 🏃
 
@@ -58,4 +58,4 @@ Durente o desenvolvimento do desafio, procurei componentizar ao máximo a aplica
 
 Foi muito bom desenvolver esse projeto, pois apesar de simples, ele explora diversos conceitos da programação, como a atomização de criar componentes mais específicos pra determinada função, criando pequenas partes e juntando-as no final para formar o todo, conceitos de requisição à uma api, que no nosso caso foi a do github e conceitos de armazenamento de dados em um contexto no React.
 
-## Confira a aplicação: [Usuários Github]()
+## Confira a aplicação: [Usuários Github](https://diogoizele.github.io/github-users/)
